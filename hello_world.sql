@@ -1,0 +1,1 @@
+Select * from COMPANY.PUBLIC.TITANIC
